@@ -1,9 +1,3 @@
 {
-    "outputDirectory": "dist",
-    "redirects": [
-        {
-            "source": "/",
-            "destination": "https://github.com/Ashutosh00710/github-readme-activity-graph"
-        }
-    ]
+    "outputDirectory": "dist"
 }
